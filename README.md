@@ -1,5 +1,5 @@
 # [Project Name] 🎯
-Restaurant Website built using html 
+Restaurant Website built using html
 
 ## Basic Details
 ### Team Name: ROSH
